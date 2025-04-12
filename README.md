@@ -2,7 +2,7 @@
 * The Apollo Save Tool FTP Server feature allows you to download and upload saves from an FTP server. 
 * Currently only on PS3 but will come to PSP,PS Vita and PS4.
 ## You must be connected to the same network on both devices and set up the necessary permissions. 
-## Newer versions of the FileZilla client enforce a more secure but unnecessary connection. As such only older versions can be used or alternative apps.
+## Newer versions of the FileZilla Server enforce a more secure but unnecessary connection. As such only older versions can be used or alternative apps.
 
 # On Windows
 * For Windows one of the best options is the FTP server that comes with it. Here is how to enable it.
@@ -34,7 +34,7 @@
 24. Restart the PC if you cannot connect from Apollo.
  
 # Old FileZilla
-* Newer versions of the FileZilla client enforce a more secure but unnecessary connection. As such only older versions can be used or alternative apps.
+* Newer versions of the FileZilla Server enforce a more secure but unnecessary connection. As such only older versions can be used or alternative apps.
 You can download this [Old version](https://www.mediafire.com/file/5fehy6soc48djps/FileZilla_Server-0_9_60_2.exe/file).
 1. Install the server from the link above. 
 2. Open it and create a host user and password. 
