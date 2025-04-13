@@ -64,7 +64,7 @@ You can download this [Old version](https://www.mediafire.com/file/5fehy6soc48dj
 
 # Connecting to the Server from Apollo
 * The previously created FTP server credentials and IP are required. 
-1. Download and install the latest version of [Apollo](https://github.com/bucanero/apollo-ps3/latest).
+1. Download and install the latest version of [Apollo](https://github.com/bucanero/apollo-ps3/releases/latest).
 2. Open Apollo and go to Settings.
 3. Select "Set User FTP Server URL" and enter in your FTP server IP along with the username and password then press the start button.
 4. The following structure is a template: ftp://username:password@192.168.0.1/
